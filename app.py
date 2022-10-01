@@ -34,10 +34,9 @@ tofill2.send_keys(pssword)
 sugnup = browser.find_element(by="name",value='login')
 sugnup.click()
 
-<<<<<<< HEAD
+
 sleep(10)
-=======
->>>>>>> 7e316f035f5b63dd934d14f334bb3d0cb11cecc8
+
 
 open_messages_icon_class = 'qi72231t n3hqoq4p r86q59rh b3qcqh3k fq87ekyn fsf7x5fv s5oniofx m8h3af8h l7ghb35v kjdc1dyq kmwttqpk cr00lzj9 rn8ck1ys s3jn8y49 f14ij5to l3ldwz01 icdlwmnq i85zmo3j qmqpeqxj e7u6y3za qwcclf47 nmlomj2f frfouenu bonavkto djs4p424 r7bn319e bdao358l alzwoclg jcxyg2ei srn514ro oxkhqvkx rl78xhln nch0832m om3e55n1 nq2b4knc bis24fgy a5wdgl2o'
 

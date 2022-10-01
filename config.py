@@ -1,2 +1,2 @@
-email="elswordfan@hotmail.fr"
-pssword="Naginata2000"
+email=""
+pssword=""
